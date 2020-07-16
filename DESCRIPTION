@@ -1,7 +1,7 @@
 Package: shinyhttr
 Type: Package
 Title: Progress Bars for Downloads in 'shiny' Apps
-Version: 1.0.0
+Version: 1.1.0
 Authors@R: 
     c(person(given = "Athos",
              family = "Damiani",
@@ -22,14 +22,14 @@ BugReports: https://github.com/curso-r/shinyhttr/issues
 URL: https://github.com/curso-r/shinyhttr
 Encoding: UTF-8
 LazyData: true
-Imports: shinyWidgets, utils
-RoxygenNote: 6.1.1
-Enhances: shiny, httr
+Imports: shinyWidgets, utils, httr
+RoxygenNote: 7.1.1
+Enhances: shiny
 NeedsCompilation: no
-Packaged: 2019-03-19 03:44:52 UTC; ap_da
+Packaged: 2020-07-16 15:24:02 UTC; ap_da
 Author: Athos Damiani [aut, cre],
   Hadley Wickham [aut],
   RStudio [cph]
 Maintainer: Athos Damiani <athos.damiani@curso-r.com>
 Repository: CRAN
-Date/Publication: 2019-03-22 17:10:42 UTC
+Date/Publication: 2020-07-16 15:30:02 UTC
